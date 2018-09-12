@@ -1,0 +1,2 @@
+#!/bin/sh
+curl -X post http://13.250.113.152:8090/job/kumar-test
